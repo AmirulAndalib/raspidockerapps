@@ -1,0 +1,20 @@
+version: '3'
+#---------------------------------------------------------------------#
+#     Homarr - A simple, yet powerful dashboard for your server.     #
+#---------------------------------------------------------------------#
+services:
+  homarr:
+    container_name: homarr
+    image: ghcr.io/ajnart/homarr:latest
+    
+    volumes:
+      - /root/dockerapps/configs/homarr:/app/data/configs
+      - /root/dockerapps/configs/homarr:/app/public/icons
+      - /var/run/docker.sock:/var/run/docker.sock
+    environment:
+      - TZ=Pacific/Auckland
+      - "PASSWORD=@Oraclecloud#HomarR#45621#2023!"
+      - PUID=1000
+      - PGID=1000
+    ports:
+      - '7575:7575'

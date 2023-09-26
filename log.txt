@@ -1,0 +1,307 @@
+===== Backup Log Wed  5 Jul 19:06:32 NZST 2023 =====
+[master 713ada7] Backup at Wed  5 Jul 19:06:33 NZST 2023
+ 20 files changed, 148 insertions(+), 2 deletions(-)
+ rename configs/{sonarr => prowlarr}/logs.db-shm (98%)
+ create mode 100755 configs/prowlarr/logs.db-wal
+ delete mode 100755 configs/sonarr/logs.db-wal
+ create mode 100644 log.txt
+===== Backup Log Thu  6 Jul 14:00:20 NZST 2023 =====
+[master ff4efc6] Backup at Thu  6 Jul 14:00:20 NZST 2023
+ 4 files changed, 10 insertions(+)
+===== Backup Log Thu  6 Jul 16:00:23 NZST 2023 =====
+[master c5ef997] Backup at Thu  6 Jul 16:00:23 NZST 2023
+ 9 files changed, 11 insertions(+)
+ create mode 100755 configs/sonarr/logs.db-shm
+ create mode 100755 configs/sonarr/logs.db-wal
+===== Backup Log Thu  6 Jul 17:00:15 NZST 2023 =====
+[master ac7248f] Backup at Thu  6 Jul 17:00:15 NZST 2023
+ 5 files changed, 8 insertions(+)
+===== Backup Log Thu  6 Jul 17:00:30 NZST 2023 =====
+[master 7c6fbaf] Backup at Thu  6 Jul 17:00:31 NZST 2023
+ 5 files changed, 8 insertions(+)
+ delete mode 100755 configs/sonarr/sonarr.db-shm
+ delete mode 100755 configs/sonarr/sonarr.db-wal
+===== Backup Log Thu  6 Jul 21:04:17 NZST 2023 =====
+===== Backup Log Thu  6 Jul 22:00:08 NZST 2023 =====
+===== Backup Log Thu  6 Jul 22:04:23 NZST 2023 =====
+===== Backup Log Thu  6 Jul 23:00:03 NZST 2023 =====
+===== Backup Log Thu  6 Jul 23:00:09 NZST 2023 =====
+===== Backup Log Thu  6 Jul 23:04:24 NZST 2023 =====
+===== Backup Log Fri  7 Jul 00:00:02 NZST 2023 =====
+===== Backup Log Fri  7 Jul 00:00:04 NZST 2023 =====
+===== Backup Log Fri  7 Jul 00:00:10 NZST 2023 =====
+===== Backup Log Fri  7 Jul 02:00:03 NZST 2023 =====
+===== Backup Log Fri  7 Jul 03:00:03 NZST 2023 =====
+===== Backup Log Fri  7 Jul 03:00:05 NZST 2023 =====
+===== Backup Log Fri  7 Jul 04:00:03 NZST 2023 =====
+===== Backup Log Fri  7 Jul 04:00:05 NZST 2023 =====
+===== Backup Log Fri  7 Jul 04:00:06 NZST 2023 =====
+===== Backup Log Fri  7 Jul 06:00:03 NZST 2023 =====
+===== Backup Log Fri  7 Jul 07:00:03 NZST 2023 =====
+===== Backup Log Fri  7 Jul 07:00:04 NZST 2023 =====
+===== Backup Log Fri  7 Jul 08:00:03 NZST 2023 =====
+===== Backup Log Fri  7 Jul 08:00:05 NZST 2023 =====
+===== Backup Log Fri  7 Jul 08:00:05 NZST 2023 =====
+===== Backup Log Fri  7 Jul 10:00:03 NZST 2023 =====
+===== Backup Log Fri  7 Jul 11:00:03 NZST 2023 =====
+===== Backup Log Fri  7 Jul 11:00:05 NZST 2023 =====
+===== Backup Log Fri  7 Jul 12:00:03 NZST 2023 =====
+===== Backup Log Fri  7 Jul 12:00:04 NZST 2023 =====
+===== Backup Log Fri  7 Jul 12:00:06 NZST 2023 =====
+===== Backup Log Fri  7 Jul 15:00:04 NZST 2023 =====
+===== Backup Log Fri  7 Jul 16:00:04 NZST 2023 =====
+===== Backup Log Fri  7 Jul 16:00:05 NZST 2023 =====
+===== Backup Log Fri  7 Jul 18:00:03 NZST 2023 =====
+===== Backup Log Fri  7 Jul 20:00:06 NZST 2023 =====
+===== Backup Log Fri  7 Jul 22:00:03 NZST 2023 =====
+===== Backup Log Fri  7 Jul 23:00:03 NZST 2023 =====
+===== Backup Log Fri  7 Jul 23:00:04 NZST 2023 =====
+===== Backup Log Sat  8 Jul 00:00:02 NZST 2023 =====
+===== Backup Log Sat  8 Jul 00:00:04 NZST 2023 =====
+===== Backup Log Sat  8 Jul 00:00:05 NZST 2023 =====
+===== Backup Log Sat  8 Jul 04:00:04 NZST 2023 =====
+===== Backup Log Sat  8 Jul 06:00:03 NZST 2023 =====
+===== Backup Log Sat  8 Jul 07:00:03 NZST 2023 =====
+===== Backup Log Sat  8 Jul 07:00:04 NZST 2023 =====
+===== Backup Log Sat  8 Jul 08:00:02 NZST 2023 =====
+===== Backup Log Sat  8 Jul 08:00:04 NZST 2023 =====
+===== Backup Log Sat  8 Jul 08:00:06 NZST 2023 =====
+===== Backup Log Sat  8 Jul 10:00:03 NZST 2023 =====
+===== Backup Log Sat  8 Jul 11:00:03 NZST 2023 =====
+===== Backup Log Sat  8 Jul 11:00:04 NZST 2023 =====
+===== Backup Log Sat  8 Jul 12:00:02 NZST 2023 =====
+===== Backup Log Sat  8 Jul 12:00:04 NZST 2023 =====
+===== Backup Log Sat  8 Jul 12:00:05 NZST 2023 =====
+===== Backup Log Sat  8 Jul 14:00:03 NZST 2023 =====
+===== Backup Log Sat  8 Jul 15:00:03 NZST 2023 =====
+===== Backup Log Sat  8 Jul 15:00:04 NZST 2023 =====
+===== Backup Log Sat  8 Jul 16:00:04 NZST 2023 =====
+===== Backup Log Sat  8 Jul 16:00:05 NZST 2023 =====
+===== Backup Log Sat  8 Jul 16:00:06 NZST 2023 =====
+===== Backup Log Sat  8 Jul 18:00:03 NZST 2023 =====
+===== Backup Log Sat  8 Jul 19:00:03 NZST 2023 =====
+===== Backup Log Sat  8 Jul 19:00:04 NZST 2023 =====
+===== Backup Log Sat  8 Jul 20:00:02 NZST 2023 =====
+===== Backup Log Sat  8 Jul 20:00:04 NZST 2023 =====
+===== Backup Log Sat  8 Jul 20:00:05 NZST 2023 =====
+===== Backup Log Sat  8 Jul 22:00:03 NZST 2023 =====
+===== Backup Log Sat  8 Jul 23:00:02 NZST 2023 =====
+===== Backup Log Sat  8 Jul 23:00:04 NZST 2023 =====
+===== Backup Log Sun  9 Jul 00:00:02 NZST 2023 =====
+===== Backup Log Sun  9 Jul 00:00:03 NZST 2023 =====
+===== Backup Log Sun  9 Jul 00:00:05 NZST 2023 =====
+===== Backup Log Sun  9 Jul 02:00:03 NZST 2023 =====
+===== Backup Log Sun  9 Jul 03:00:03 NZST 2023 =====
+===== Backup Log Sun  9 Jul 03:00:04 NZST 2023 =====
+===== Backup Log Sun  9 Jul 04:00:02 NZST 2023 =====
+===== Backup Log Sun  9 Jul 04:00:04 NZST 2023 =====
+===== Backup Log Sun  9 Jul 04:00:05 NZST 2023 =====
+===== Backup Log Sun  9 Jul 06:00:03 NZST 2023 =====
+===== Backup Log Sun  9 Jul 07:00:03 NZST 2023 =====
+===== Backup Log Sun  9 Jul 07:00:04 NZST 2023 =====
+===== Backup Log Sun  9 Jul 08:00:03 NZST 2023 =====
+===== Backup Log Sun  9 Jul 08:00:04 NZST 2023 =====
+===== Backup Log Sun  9 Jul 08:00:05 NZST 2023 =====
+===== Backup Log Sun  9 Jul 10:00:03 NZST 2023 =====
+===== Backup Log Sun  9 Jul 11:00:02 NZST 2023 =====
+===== Backup Log Sun  9 Jul 11:00:04 NZST 2023 =====
+===== Backup Log Sun  9 Jul 12:00:02 NZST 2023 =====
+===== Backup Log Sun  9 Jul 12:00:03 NZST 2023 =====
+===== Backup Log Sun  9 Jul 12:00:05 NZST 2023 =====
+===== Backup Log Sun  9 Jul 14:00:03 NZST 2023 =====
+===== Backup Log Sun  9 Jul 15:00:02 NZST 2023 =====
+===== Backup Log Sun  9 Jul 15:00:04 NZST 2023 =====
+===== Backup Log Sun  9 Jul 16:00:03 NZST 2023 =====
+===== Backup Log Sun  9 Jul 16:00:05 NZST 2023 =====
+===== Backup Log Sun  9 Jul 16:00:05 NZST 2023 =====
+===== Backup Log Sun  9 Jul 20:00:02 NZST 2023 =====
+===== Backup Log Mon 10 Jul 23:00:43 NZST 2023 =====
+[master 3d76518] Backup at Mon 10 Jul 23:00:44 NZST 2023
+ 8 files changed, 6 insertions(+)
+ create mode 100755 configs/radarr/logs.db-shm
+ create mode 100755 configs/radarr/logs.db-wal
+===== Backup Log Tue 11 Jul 02:00:19 NZST 2023 =====
+[master 0b774bd] Backup at Tue 11 Jul 02:00:19 NZST 2023
+ 3 files changed, 5 insertions(+)
+===== Backup Log Tue 11 Jul 03:00:17 NZST 2023 =====
+[master 7b95b12] Backup at Tue 11 Jul 03:00:17 NZST 2023
+ 3 files changed, 5 insertions(+)
+===== Backup Log Tue 11 Jul 03:00:21 NZST 2023 =====
+[master cb813fd] Backup at Tue 11 Jul 03:00:21 NZST 2023
+ 1 file changed, 3 insertions(+)
+===== Backup Log Tue 11 Jul 04:00:17 NZST 2023 =====
+===== Backup Log Tue 11 Jul 04:00:19 NZST 2023 =====
+===== Backup Log Tue 11 Jul 04:00:23 NZST 2023 =====
+[master 5930a14] Backup at Tue 11 Jul 04:00:20 NZST 2023
+ 21 files changed, 430 insertions(+)
+ rewrite configs/prowlarr/logs.db-wal (86%)
+ delete mode 100755 configs/prowlarr/prowlarr.db-wal
+ delete mode 100644 configs/qbittorrent/config/lockfile
+ delete mode 100644 configs/qbittorrent/config/rss/storage.lock
+ delete mode 100644 configs/qbittorrent/data/rss/articles/storage.lock
+ rename configs/radarr/{radarr.db-shm => logs.db-shm} (96%)
+ create mode 100755 configs/radarr/logs.db-wal
+ delete mode 100755 configs/radarr/radarr.db-wal
+ rename configs/{prowlarr/prowlarr.db-shm => sonarr/logs.db-shm} (91%)
+ create mode 100755 configs/sonarr/logs.db-wal
+[master e4fc143] Backup at Tue 11 Jul 04:00:23 NZST 2023
+ 1 file changed, 13 insertions(+)
+===== Backup Log Tue 11 Jul 06:00:21 NZST 2023 =====
+[master b328b07] Backup at Tue 11 Jul 06:00:21 NZST 2023
+ 5 files changed, 5 insertions(+)
+ create mode 100755 configs/sonarr/logs.db-shm
+ create mode 100755 configs/sonarr/logs.db-wal
+===== Backup Log Tue 11 Jul 07:00:19 NZST 2023 =====
+[master 1dc78f5] Backup at Tue 11 Jul 07:00:19 NZST 2023
+ 3 files changed, 5 insertions(+)
+===== Backup Log Tue 11 Jul 07:00:23 NZST 2023 =====
+[master b97f435] Backup at Tue 11 Jul 07:00:23 NZST 2023
+ 1 file changed, 3 insertions(+)
+===== Backup Log Tue 11 Jul 08:00:16 NZST 2023 =====
+[master 2bc0b20] Backup at Tue 11 Jul 08:00:17 NZST 2023
+ 18 files changed, 8 insertions(+)
+ rewrite configs/prowlarr/logs.db-wal (92%)
+ delete mode 100755 configs/prowlarr/prowlarr.db-wal
+ delete mode 100644 configs/qbittorrent/config/lockfile
+ delete mode 100644 configs/qbittorrent/config/rss/storage.lock
+ delete mode 100644 configs/qbittorrent/data/rss/articles/storage.lock
+ rename configs/{prowlarr/prowlarr.db-shm => radarr/logs.db-shm} (96%)
+ create mode 100755 configs/radarr/logs.db-wal
+ delete mode 100755 configs/radarr/radarr.db-shm
+ delete mode 100755 configs/radarr/radarr.db-wal
+===== Backup Log Tue 11 Jul 08:00:21 NZST 2023 =====
+[master 84f7676] Backup at Tue 11 Jul 08:00:21 NZST 2023
+ 1 file changed, 12 insertions(+)
+===== Backup Log Tue 11 Jul 08:00:25 NZST 2023 =====
+[master 3dba9a2] Backup at Tue 11 Jul 08:00:25 NZST 2023
+ 1 file changed, 3 insertions(+)
+===== Backup Log Tue 11 Jul 10:00:19 NZST 2023 =====
+[master bad576b] Backup at Tue 11 Jul 10:00:19 NZST 2023
+ 3 files changed, 5 insertions(+)
+===== Backup Log Tue 11 Jul 11:00:20 NZST 2023 =====
+[master 7641b11] Backup at Tue 11 Jul 11:00:20 NZST 2023
+ 3 files changed, 5 insertions(+)
+===== Backup Log Tue 11 Jul 11:00:21 NZST 2023 =====
+[master cf41091] Backup at Tue 11 Jul 11:00:21 NZST 2023
+ 1 file changed, 3 insertions(+)
+===== Backup Log Tue 11 Jul 12:00:14 NZST 2023 =====
+===== Backup Log Tue 11 Jul 12:00:22 NZST 2023 =====
+===== Backup Log Tue 11 Jul 12:00:23 NZST 2023 =====
+===== Backup Log Tue 11 Jul 14:00:25 NZST 2023 =====
+[master 5bc3418] Backup at Tue 11 Jul 14:00:25 NZST 2023
+ 5 files changed, 5 insertions(+)
+===== Backup Log Tue 11 Jul 15:00:12 NZST 2023 =====
+[master 524fe88] Backup at Tue 11 Jul 15:00:13 NZST 2023
+ 3 files changed, 5 insertions(+)
+===== Backup Log Tue 11 Jul 15:00:27 NZST 2023 =====
+[master a4ed388] Backup at Tue 11 Jul 15:00:27 NZST 2023
+ 1 file changed, 3 insertions(+)
+===== Backup Log Tue 11 Jul 16:00:16 NZST 2023 =====
+===== Backup Log Tue 11 Jul 16:00:22 NZST 2023 =====
+===== Backup Log Tue 11 Jul 16:00:29 NZST 2023 =====
+===== Backup Log Tue 11 Jul 18:00:23 NZST 2023 =====
+[master b5cc035] Backup at Tue 11 Jul 18:00:23 NZST 2023
+ 3 files changed, 3 insertions(+)
+===== Backup Log Tue 11 Jul 19:01:14 NZST 2023 =====
+[master 12dba78] Backup at Tue 11 Jul 19:01:15 NZST 2023
+ 8 files changed, 11 insertions(+)
+ delete mode 100755 configs/sonarr/logs.db-shm
+ delete mode 100755 configs/sonarr/logs.db-wal
+===== Backup Log Tue 11 Jul 19:01:31 NZST 2023 =====
+[master 7f4066e] Backup at Tue 11 Jul 19:01:31 NZST 2023
+ 3 files changed, 5 insertions(+)
+===== Backup Log Tue 11 Jul 20:00:17 NZST 2023 =====
+===== Backup Log Tue 11 Jul 22:00:21 NZST 2023 =====
+[master 4cefff9] Backup at Tue 11 Jul 22:00:22 NZST 2023
+ 3 files changed, 5 insertions(+)
+===== Backup Log Tue 11 Jul 23:00:35 NZST 2023 =====
+[master 98b9873] Backup at Tue 11 Jul 23:00:35 NZST 2023
+ 5 files changed, 5 insertions(+)
+===== Backup Log Tue 11 Jul 23:00:39 NZST 2023 =====
+[master 77c6dd6] Backup at Tue 11 Jul 23:00:39 NZST 2023
+ 1 file changed, 3 insertions(+)
+===== Backup Log Wed 12 Jul 00:00:18 NZST 2023 =====
+===== Backup Log Wed 12 Jul 02:00:21 NZST 2023 =====
+[master ed0ae5c] Backup at Wed 12 Jul 02:00:21 NZST 2023
+ 3 files changed, 5 insertions(+)
+===== Backup Log Wed 12 Jul 03:00:19 NZST 2023 =====
+[master 2a5ac13] Backup at Wed 12 Jul 03:00:19 NZST 2023
+ 3 files changed, 5 insertions(+)
+===== Backup Log Wed 12 Jul 03:00:23 NZST 2023 =====
+[master ae67f7d] Backup at Wed 12 Jul 03:00:23 NZST 2023
+ 1 file changed, 3 insertions(+)
+===== Backup Log Wed 12 Jul 04:00:16 NZST 2023 =====
+===== Backup Log Wed 12 Jul 04:00:21 NZST 2023 =====
+===== Backup Log Wed 12 Jul 04:00:24 NZST 2023 =====
+===== Backup Log Wed 12 Jul 06:00:27 NZST 2023 =====
+[master 4e14d0c] Backup at Wed 12 Jul 06:00:27 NZST 2023
+ 3 files changed, 5 insertions(+)
+===== Backup Log Wed 12 Jul 07:00:20 NZST 2023 =====
+[master 68f3884] Backup at Wed 12 Jul 07:00:20 NZST 2023
+ 3 files changed, 5 insertions(+)
+===== Backup Log Wed 12 Jul 07:00:29 NZST 2023 =====
+[master ecb2ea9] Backup at Wed 12 Jul 07:00:29 NZST 2023
+ 3 files changed, 3 insertions(+)
+===== Backup Log Wed 12 Jul 08:00:18 NZST 2023 =====
+===== Backup Log Wed 12 Jul 08:00:22 NZST 2023 =====
+===== Backup Log Wed 12 Jul 10:00:26 NZST 2023 =====
+[master 88344dc] Backup at Wed 12 Jul 10:00:27 NZST 2023
+ 3 files changed, 5 insertions(+)
+===== Backup Log Wed 12 Jul 11:00:19 NZST 2023 =====
+[master 9ca74c8] Backup at Wed 12 Jul 11:00:19 NZST 2023
+ 3 files changed, 5 insertions(+)
+===== Backup Log Wed 12 Jul 11:00:28 NZST 2023 =====
+[master f5a73d9] Backup at Wed 12 Jul 11:00:28 NZST 2023
+ 1 file changed, 3 insertions(+)
+===== Backup Log Wed 12 Jul 12:00:17 NZST 2023 =====
+===== Backup Log Wed 12 Jul 12:00:21 NZST 2023 =====
+===== Backup Log Wed 12 Jul 12:00:30 NZST 2023 =====
+===== Backup Log Wed 12 Jul 14:00:29 NZST 2023 =====
+[master e5d46cd] Backup at Wed 12 Jul 14:00:29 NZST 2023
+ 5 files changed, 5 insertions(+)
+===== Backup Log Wed 12 Jul 15:00:25 NZST 2023 =====
+[master acf3155] Backup at Wed 12 Jul 15:00:25 NZST 2023
+ 3 files changed, 5 insertions(+)
+===== Backup Log Wed 12 Jul 15:00:31 NZST 2023 =====
+[master 018c799] Backup at Wed 12 Jul 15:00:31 NZST 2023
+ 1 file changed, 3 insertions(+)
+===== Backup Log Wed 12 Jul 16:00:19 NZST 2023 =====
+===== Backup Log Wed 12 Jul 16:00:27 NZST 2023 =====
+[master 36a031b] Backup at Wed 12 Jul 16:00:28 NZST 2023
+ 1 file changed, 1 insertion(+)
+===== Backup Log Wed 12 Jul 16:00:33 NZST 2023 =====
+[master 6d7721f] Backup at Wed 12 Jul 16:00:21 NZST 2023
+ 32 files changed, 5012 insertions(+), 9 deletions(-)
+ rewrite configs/prowlarr/logs.db-wal (75%)
+ delete mode 100644 configs/qbittorrent/config/rss/storage.lock
+ delete mode 100644 configs/qbittorrent/data/rss/articles/storage.lock
+ create mode 100755 configs/radarr/logs.db-shm
+ create mode 100755 configs/radarr/logs.db-wal
+ rename configs/{qbittorrent/config/lockfile => radarr/radarr.db-wal} (100%)
+ mode change 100644 => 100755
+[master 86ca16f] Backup at Wed 12 Jul 16:00:33 NZST 2023
+ 1 file changed, 12 insertions(+)
+===== Backup Log Wed 12 Jul 18:00:27 NZST 2023 =====
+[master 80feec7] Backup at Wed 12 Jul 18:00:28 NZST 2023
+ 1 file changed, 1 insertion(+)
+===== Backup Log Wed 12 Jul 19:01:17 NZST 2023 =====
+[master e87161d] Backup at Wed 12 Jul 19:01:19 NZST 2023
+ 9 files changed, 1012 insertions(+)
+ delete mode 100755 configs/sonarr/logs.db-shm
+ delete mode 100755 configs/sonarr/logs.db-wal
+===== Backup Log Wed 12 Jul 19:01:25 NZST 2023 =====
+[master 1e078d5] Backup at Wed 12 Jul 19:01:25 NZST 2023
+ 3 files changed, 5 insertions(+)
+===== Backup Log Wed 12 Jul 20:00:18 NZST 2023 =====
+[master e4ef583] Backup at Wed 12 Jul 20:00:25 NZST 2023
+ 26 files changed, 714 insertions(+)
+ rewrite configs/prowlarr/logs.db-wal (76%)
+ delete mode 100755 configs/prowlarr/prowlarr.db-wal
+ delete mode 100644 configs/qbittorrent/config/lockfile
+ delete mode 100644 configs/qbittorrent/config/rss/storage.lock
+ delete mode 100644 configs/qbittorrent/data/rss/articles/storage.lock
+ rename configs/{prowlarr/prowlarr.db-shm => radarr/logs.db-shm} (96%)
+ create mode 100755 configs/radarr/logs.db-wal
+ rewrite configs/radarr/radarr.db-wal (99%)
+ create mode 100755 configs/sonarr/logs.db-shm
+ create mode 100755 configs/sonarr/logs.db-wal

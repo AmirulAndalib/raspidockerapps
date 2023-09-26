@@ -1,0 +1,17 @@
+version: "2.1"
+services:
+  bazarr:
+    image: lscr.io/linuxserver/bazarr:development
+    container_name: bazarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Pacific/Auckland
+    volumes:
+      - /root/dockerapps/configs/bazarr:/config
+      - /home/amirulandalib/downloads/media/movies:/movies #optional
+      - /home/amirulandalib/downloads/media/tv:/tv #optional
+      - /var/run/docker.sock:/var/run/docker.sock
+    ports:
+      - 6767:6767
+    

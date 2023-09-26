@@ -1,0 +1,15 @@
+version: "2.1"
+services:
+  tautulli:
+    image: lscr.io/linuxserver/tautulli:develop
+    container_name: tautulli
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Pacific/Auckland
+    volumes:
+      - /root/dockerapps/configs/tautulli:/config
+      - /var/run/docker.sock:/var/run/docker.sock
+    ports:
+      - 8181:8181
+    

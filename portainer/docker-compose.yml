@@ -1,0 +1,18 @@
+version: "3"
+services:
+  portainer:
+    image: portainer/portainer-ee:latest
+    container_name: portainer
+    ports:
+      - 8443:8000
+      - 9443:9443
+    volumes:
+      - data:/data
+      - /var/run/docker.sock:/var/run/docker.sock
+    environment:
+      - TZ=Pacific/Auckland
+      - PUID=1000
+      - PGID=1000
+    
+volumes:
+  data:

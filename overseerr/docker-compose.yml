@@ -1,0 +1,15 @@
+version: "2.1"
+services:
+  overseerr:
+    image: lscr.io/linuxserver/overseerr:develop
+    container_name: overseerr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Pacific/Auckland
+    volumes:
+      - /root/dockerapps/configs/overseerr:/config
+      - /var/run/docker.sock:/var/run/docker.sock
+    ports:
+      - 5055:5055
+    

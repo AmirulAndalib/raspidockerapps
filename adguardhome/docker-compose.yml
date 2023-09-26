@@ -1,0 +1,31 @@
+version: "2.1"
+services:
+  adguardhome:
+    image: adguard/adguardhome
+    container_name: adguardhome
+    
+    volumes:
+      - /root/dockerapps/configs/adguardhome/work:/opt/adguardhome/work
+      - /root/dockerapps/configs/adguardhome/conf:/opt/adguardhome/conf
+      - /var/run/docker.sock:/var/run/docker.sock
+    environment:
+      - PUID=1000
+      - PGID=1000
+    ports:
+      - 53:53/tcp # plain DNS
+      - 53:53/udp # plain DNS
+      # - 67:67/udp # Commented out - DHCP server
+      # - 68:68/tcp # Commented out - DHCP server
+      # - 68:68/udp # Commented out - DHCP server
+      # - 80:80/tcp # Commented out - Admin panel and HTTPS server
+      # - 443:443/tcp # Commented out - Admin panel and HTTPS server
+      # - 443:443/udp # Commented out - Admin panel and HTTPS server
+      - 3000:3000/tcp # Commented out - Admin panel and HTTPS server
+      # - 853:853/tcp # Commented out - DNS-over-TLS server
+      #- 53:53/tcp # VPN DNS port (you can choose a different external port if desired)
+      #- 53:53/udp # VPN DNS port (you can choose a different external port if desired)
+      # - 784:784/udp # Commented out - DNS-over-QUIC server
+      # - 853:853/udp # Commented out - DNS-over-QUIC server
+      # - 8853:8853/udp # Commented out - DNS-over-QUIC server
+      # - 5443:5443/tcp # Commented out - DNSCrypt server
+      # - 5443:5443/udp # Commented out - DNSCrypt server

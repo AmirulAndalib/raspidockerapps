@@ -1,0 +1,18 @@
+version: "3"
+
+services:
+  filebrowser:
+    image: hurlenko/filebrowser
+    container_name: filebrowser
+    user: "${UID}:${GID}"
+    ports:
+      - 6969:8080
+    volumes:
+      - /:/data
+      - /root/dockerapps/configs/filebrowser:/config
+      - /var/run/docker.sock:/var/run/docker.sock
+    environment:
+      - FB_BASEURL=/filebrowser
+      - TZ=Pacific/Auckland
+      - PUID=1000
+      - PGID=1000
